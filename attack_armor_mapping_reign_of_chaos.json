@@ -1,0 +1,212 @@
+[
+  {
+    "attack": "Normal",
+    "armor": "Light",
+    "percentage": 1.5
+  },
+  {
+    "attack": "Normal",
+    "armor": "Medium",
+    "percentage": 1
+  },
+  {
+    "attack": "Normal",
+    "armor": "Heavy",
+    "percentage": 1
+  },
+  {
+    "attack": "Normal",
+    "armor": "Fort",
+    "percentage": 0.5
+  },
+  {
+    "attack": "Normal",
+    "armor": "Hero",
+    "percentage": 1
+  },
+  {
+    "attack": "Normal",
+    "armor": "Unarmored",
+    "percentage": 1
+  },
+  {
+    "attack": "Pierce",
+    "armor": "Light",
+    "percentage": 0.75
+  },
+  {
+    "attack": "Pierce",
+    "armor": "Medium",
+    "percentage": 1
+  },
+  {
+    "attack": "Pierce",
+    "armor": "Heavy",
+    "percentage": 1.5
+  },
+  {
+    "attack": "Pierce",
+    "armor": "Fort",
+    "percentage": 0.35
+  },
+  {
+    "attack": "Pierce",
+    "armor": "Hero",
+    "percentage": 0.5
+  },
+  {
+    "attack": "Pierce",
+    "armor": "Unarmored",
+    "percentage": 1.5
+  },
+  {
+    "attack": "Siege",
+    "armor": "Light",
+    "percentage": 0.5
+  },
+  {
+    "attack": "Siege",
+    "armor": "Medium",
+    "percentage": 1
+  },
+  {
+    "attack": "Siege",
+    "armor": "Heavy",
+    "percentage": 1
+  },
+  {
+    "attack": "Siege",
+    "armor": "Fort",
+    "percentage": 1.5
+  },
+  {
+    "attack": "Siege",
+    "armor": "Hero",
+    "percentage": 0.5
+  },
+  {
+    "attack": "Siege",
+    "armor": "Unarmored",
+    "percentage": 1.5
+  },
+  {
+    "attack": "Magic",
+    "armor": "Light",
+    "percentage": 1
+  },
+  {
+    "attack": "Magic",
+    "armor": "Medium",
+    "percentage": 2
+  },
+  {
+    "attack": "Magic",
+    "armor": "Heavy",
+    "percentage": 1
+  },
+  {
+    "attack": "Magic",
+    "armor": "Fort",
+    "percentage": 0.5
+  },
+  {
+    "attack": "Magic",
+    "armor": "Hero",
+    "percentage": 0.5
+  },
+  {
+    "attack": "Magic",
+    "armor": "Unarmored",
+    "percentage": 0.75
+  },
+  {
+    "attack": "Chaos",
+    "armor": "Light",
+    "percentage": 1
+  },
+  {
+    "attack": "Chaos",
+    "armor": "Medium",
+    "percentage": 1
+  },
+  {
+    "attack": "Chaos",
+    "armor": "Heavy",
+    "percentage": 1
+  },
+  {
+    "attack": "Chaos",
+    "armor": "Fort",
+    "percentage": 1
+  },
+  {
+    "attack": "Chaos",
+    "armor": "Hero",
+    "percentage": 1
+  },
+  {
+    "attack": "Chaos",
+    "armor": "Unarmored",
+    "percentage": 1
+  },
+  {
+    "attack": "Spells",
+    "armor": "Light",
+    "percentage": 1
+  },
+  {
+    "attack": "Spells",
+    "armor": "Medium",
+    "percentage": 1
+  },
+  {
+    "attack": "Spells",
+    "armor": "Heavy",
+    "percentage": 1
+  },
+  {
+    "attack": "Spells",
+    "armor": "Fort",
+    "percentage": 1
+  },
+  {
+    "attack": "Spells",
+    "armor": "Hero",
+    "percentage": 0.7
+  },
+  {
+    "attack": "Spells",
+    "armor": "Unarmored",
+    "percentage": 1
+  },
+  {
+    "attack": "Hero",
+    "armor": "Light",
+    "percentage": 1
+  },
+  {
+    "attack": "Hero",
+    "armor": "Medium",
+    "percentage": 1
+  },
+  {
+    "attack": "Hero",
+    "armor": "Heavy",
+    "percentage": 1
+  },
+  {
+    "attack": "Hero",
+    "armor": "Fort",
+    "percentage": 0.5
+  },
+  {
+    "attack": "Hero",
+    "armor": "Hero",
+    "percentage": 1
+  },
+  {
+    "attack": "Hero",
+    "armor": "Unarmored",
+    "percentage": 1
+  }
+]
